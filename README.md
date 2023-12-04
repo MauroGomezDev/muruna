@@ -62,8 +62,8 @@ Validará el formato del correo electrónico y la contraseña.
 Para validar email, se toma el valor de la expresion regular desde el archivo de configuracion applicaion.properties
 Retorna un usuario con los campos id, created date, modified date, lastLogin, token y isActive.
 
-## Prueba de integración
-Se implemento swagger para la documentacion de la API.
+## Prueba de integración Swagger
+Se implemento swagger para la documentacion de la API, pueder entrar en http://localhost:8080/swagger-ui/index.html 
 
 Ademas, Se agrego en este mismo repositorio la coleccion de endpoints para ser importdado en postman.
 Nombre archivo: muruna.postman_collection.json
